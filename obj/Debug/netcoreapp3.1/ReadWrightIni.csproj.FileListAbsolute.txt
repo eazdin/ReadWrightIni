@@ -1,0 +1,13 @@
+C:\mitra c#\day8\LiveEx\ReadWrightIni\obj\Debug\netcoreapp3.1\ReadWrightIni.csprojAssemblyReference.cache
+C:\mitra c#\day8\LiveEx\ReadWrightIni\obj\Debug\netcoreapp3.1\ReadWrightIni.AssemblyInfoInputs.cache
+C:\mitra c#\day8\LiveEx\ReadWrightIni\obj\Debug\netcoreapp3.1\ReadWrightIni.AssemblyInfo.cs
+C:\mitra c#\day8\LiveEx\ReadWrightIni\obj\Debug\netcoreapp3.1\ReadWrightIni.csproj.CoreCompileInputs.cache
+C:\mitra c#\day8\LiveEx\ReadWrightIni\bin\Debug\netcoreapp3.1\ReadWrightIni.exe
+C:\mitra c#\day8\LiveEx\ReadWrightIni\bin\Debug\netcoreapp3.1\ReadWrightIni.deps.json
+C:\mitra c#\day8\LiveEx\ReadWrightIni\bin\Debug\netcoreapp3.1\ReadWrightIni.runtimeconfig.json
+C:\mitra c#\day8\LiveEx\ReadWrightIni\bin\Debug\netcoreapp3.1\ReadWrightIni.runtimeconfig.dev.json
+C:\mitra c#\day8\LiveEx\ReadWrightIni\bin\Debug\netcoreapp3.1\ReadWrightIni.dll
+C:\mitra c#\day8\LiveEx\ReadWrightIni\bin\Debug\netcoreapp3.1\ReadWrightIni.pdb
+C:\mitra c#\day8\LiveEx\ReadWrightIni\obj\Debug\netcoreapp3.1\ReadWrightIni.dll
+C:\mitra c#\day8\LiveEx\ReadWrightIni\obj\Debug\netcoreapp3.1\ReadWrightIni.pdb
+C:\mitra c#\day8\LiveEx\ReadWrightIni\obj\Debug\netcoreapp3.1\ReadWrightIni.genruntimeconfig.cache
